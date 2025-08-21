@@ -4,7 +4,7 @@ Lorem' const data = {
             id: 1,
             name: 'Nuryadi',
             child: 'Putra ke 2',
-            father: 'Dedi 'Ipsum'',
+            father: 'Dedi Sukarta',
             mother: 'Iroh',
             image: './src/assets/images/cowo.png'
         },
@@ -22,22 +22,22 @@ Lorem' const data = {
 
     time: {
         marriage: {
-            year: '2024',
+            year: '2025',
             month: ''Oktober'
             date: '1',
-            day: ''Kamis'
+            day: 'Rabu',
             hours: {
-                start: 'Lorem',
+                start: '11.00',
                 finish: 'Selesai'
             }
         },
         reception: {
             year: '2024',
             month: 'November',
-            date: '14',
-            day: 'Kamis',
+            date: '1',
+            day: 'Rabu',
             hours: {
-                start: '11.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
