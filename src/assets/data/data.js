@@ -35,7 +35,7 @@ export const data = {
             year: '2025',
             month: 'Oktober',
             date: '2',
-            day: 'Rabu',
+            day: 'Kamis',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
