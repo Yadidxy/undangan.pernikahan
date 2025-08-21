@@ -34,7 +34,7 @@ export const data = {
         reception: {
             year: '2025',
             month: 'Oktober',
-            date: '1',
+            date: '2',
             day: 'Rabu',
             hours: {
                 start: '08.00',
